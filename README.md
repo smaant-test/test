@@ -17,7 +17,7 @@ Put suricatta on your dependency list:
 [funcool/suricatta "1.3.1"]
 [com.h2database/h2 "1.4.191"] ;; For this example only
 ```
-
+ 
 Define a valid dbspec hashmap:
 
 ```clojure
