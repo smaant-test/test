@@ -6,7 +6,6 @@ dependencies:
 
 test:
   override:
-    - sleep 120
     - lein test-all
 
   post:
